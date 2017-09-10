@@ -2,4 +2,4 @@
 
 ## First Week
 
-I was introduced to the project.  Familiarized myself with the system and added my own data to training system as well as played with the code to develope an idea of how it works.
+I was introduced to the project and the system. I took photos of myself to be added as training data as well as read through the code and ran it on various inputs to get a better idea of the current system is working.  I began to familize myself with the literature.

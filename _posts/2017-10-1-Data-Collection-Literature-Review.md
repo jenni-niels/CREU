@@ -6,5 +6,5 @@ We also discussed next steps for the audio analysis which I will use to guide my
 
 I've also continue my literature and application review, and have found the following tools:
 
-    * [Voice Base](http://voicebase.readthedocs.io/en/v2-beta/index.html): for transcripts and keyword detection
-    * [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner): for transcript alignment and keyword location
+* [Voice Base](http://voicebase.readthedocs.io/en/v2-beta/index.html): for transcripts and keyword detection
+* [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner): for transcript alignment and keyword location

@@ -2,7 +2,7 @@
 # Dependencies
 markdown:       kramdown
 redcarpet:
-    extensions: ['smart']
+#extensions: ['smart']
 
 highlighter:         rouge
 fenced_code_blocks:  true
@@ -10,13 +10,17 @@ fenced_code_blocks:  true
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /CREU_blog/:categories/:year/:month/:day/:title/
+#relative_permalinks: true
 
 # Setup
-name: CREU Blog 2017 - 2018
 title: CREU Blog 2017 - 2018
 description: Research of JN Matthews
 tagline: Research of JN Matthews
 url:         https://jenni-niels.github.io/CREU_blog/
 paginate:            5
 baseurl:     https://jenni-niels.github.io/CREU_blog/
+
+# about
+author:
+  name: JN Matthews

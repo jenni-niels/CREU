@@ -2,7 +2,7 @@
 # Dependencies
 markdown:       kramdown
 redcarpet:
-    extensions: ['smart']
+#extensions: ['smart']
 
 highlighter:         rouge
 fenced_code_blocks:  true
@@ -10,7 +10,7 @@ fenced_code_blocks:  true
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+#permalink:           pretty
 
 # Setup
 name: CREU Blog 2017 - 2018

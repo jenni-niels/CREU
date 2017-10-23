@@ -10,7 +10,7 @@ fenced_code_blocks:  true
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /CREU_blog/
+permalink:           /CREU_blog/:categories/:year/:month/:day/:title/
 #relative_permalinks: true
 
 # Setup

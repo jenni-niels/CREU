@@ -1,8 +1,8 @@
 ## Second Week
 
-This week we discussed the timeline/projectory of the project, especially in reguards to data collection.  Now that the details have be established I will begin to help in data collection starting next week.
+This week we discussed the time-line/projectory of the project, especially in regards to data collection.  Now that the details have be established I will begin to help in data collection starting next week.
 
-In addition I continued to explore the existing code and my literature review.  Sumarries for a few of the papers are shown below.
+In addition I continued to explore the existing code and my literature review.  Summaries for a few of the papers are shown below.
 
 * T.Drugman, Y. Stylianou, "Voiced Activity Detection: Merging Source and Filter-based Information", IEEE Signal Processing Letters, 2014.
     * They propose source-related filters and merge them with filter-based features to produce VAD results.  They found that their proposed method worked better than previous ones, with an average F1 score of 93%.  They attribute this to the fact that filter based feature (especially ones based on power spectral density) tend to not deal well with “sporadic impulsive noise”.
@@ -26,6 +26,6 @@ In addition I continued to explore the existing code and my literature review.  
 Plan for next week:
 
 * Begin data collection
-* Record groundtruth to determine accuarcy
+* Record ground-truth to determine accuracy
 * Search for existing applications
 * Continue literature review

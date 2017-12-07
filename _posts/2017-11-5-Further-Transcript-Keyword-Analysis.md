@@ -6,4 +6,4 @@ It appears that in the prior study, many of the most common words in the transcr
 
 This produced results were the top words more apparently aligned with the study.  (see. "um, pieces, uumm, sort, ok, think").  However, we still see a lot of hesitation markers, simple verbs, and adjectives that can't give us cognitive content with out their context.  Consequentially we decided to focus first on recognizing top nouns ("pieces, guess, baxter, tool, wheels"), specifically key ones of interest, as they provide a more concrete self-contained semantic content.
 
-As such I'm working to modify the analysis code I had written to filter for nouns and have been researching libraries that may help with that. So far the NLTK module looks promising. <www.nltk.org>
+As such I'm working to modify the analysis code I had written to filter for nouns and have been researching libraries that may help with that. So far the NLTK module looks promising, www.nltk.org.

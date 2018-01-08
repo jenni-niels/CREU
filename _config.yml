@@ -19,7 +19,7 @@ description: Research of JN Matthews
 tagline: Research of JN Matthews
 url:         https://jenni-niels.github.io/CREU_blog/
 paginate:            5
-baseurl:     https://jenni-niels.github.io/CREU_blog/
+baseurl:
 
 # about
 author:

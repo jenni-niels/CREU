@@ -16,7 +16,7 @@ Consider the following simple MATLAB script "hello_world.m":
 
 We will go through the steps required to be able to call this from python.
 
- #### Note: This process has the following dependencies:
+ ### Note: This process has the following dependencies:
  * [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html "MATLAB Runtime")
  * [Python](https://www.python.org "Python")
 
@@ -24,7 +24,7 @@ First launch the MATLAB application "libraryCompiler".  In the pop-up window
 select Python Package and add the hello_world.m script to the exported
 functions list. 
 
-![library compiler]({{ site.url }}/_posts/images/libraryCompiler.png)
+![Library Compiler Window]({{ site.url }}_posts/images/libraryCompiler.png)
 
 Using a terminal navigate into the produced directory and into the 
 for_redistribution_files_only directory.  In this case from my parent directory

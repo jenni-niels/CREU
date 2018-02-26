@@ -24,7 +24,7 @@ First launch the MATLAB application "libraryCompiler".  In the pop-up window
 select Python Package and add the hello_world.m script to the exported
 functions list. 
 
-![Library Compiler Window]({{ site.url }}_posts/images/libraryCompiler.png)
+![Library Compiler Window](https://github.com/jenni-niels/CREU_blog/blob/master/_posts/images/libraryCompiler.png?raw=true)
 
 Using a terminal navigate into the produced directory and into the 
 for_redistribution_files_only directory.  In this case from my parent directory

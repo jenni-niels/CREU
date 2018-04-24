@@ -1,6 +1,3 @@
-## RENAME – Further Investigation of Version Control Bug and Decision to work 
-on Proof Of Concept with other code
-
 Much of my time was spent reading through the MATLAB documentation for the
 function call in particular, that was causing the bug I was having. There was
 some ambiguity as to which library the function was being invoked from as I 
